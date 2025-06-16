@@ -2,7 +2,7 @@
 
 A Python-based tool for recording prompted speech data, specifically designed for ASR/TTS corpus creation with Myanmar language support.
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/tools/recorder/recorder_UI.png)
 
 ## Features ✨
 
