@@ -1,8 +1,15 @@
 # Speech Training Recorder (LU Lab., Myanmar) 🎤
 
-A Python-based tool for recording prompted speech data, specifically designed for ASR/TTS corpus creation with Myanmar language support.
+A Python-based tool for recording prompted speech data, specifically designed for ASR/TTS corpus creation with Myanmar language support.  
 
-![Application Screenshot](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/tools/recorder/recorder_UI.png)
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/tools/recorder/recorder_UI.png" alt="UI" width="380"/>  
+</p>  
+<div align="center">
+  Fig. UI of recorder  
+</div> 
+
+<br />  
 
 ## Features ✨
 
