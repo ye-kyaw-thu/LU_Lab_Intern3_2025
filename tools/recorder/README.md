@@ -88,6 +88,16 @@ Example usages:
 
 ### Key Controls ⌨️  
 
+| Action                  | Keyboard Shortcut | Button Label              |
+|-------------------------|-------------------|---------------------------|
+| Start/Stop Recording    | `Space`           | Start Recording (Space)   |
+| Play Last Recording     | `P`               | Play Last (P)             |
+| Save Recording          | `S`               | Save (S)                  |
+| Next Prompt             | `N`               | Next Prompt (N)           |
+| Delete Selected         | `Ctrl+D`          | Delete (Ctrl+D)           |
+| Play Selected Recording | `Double-Click`    | (List Item Double-Click)  |
+
+**Workflow Tip**: Always verify recordings with `P` before saving!  
 ### Prompt File Format 📝  
 
 Example ```prompts.txt```: 
