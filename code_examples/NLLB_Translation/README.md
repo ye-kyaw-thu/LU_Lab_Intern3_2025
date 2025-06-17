@@ -11,7 +11,7 @@
 
 This log demonstrates the complete SQuAD dataset translation process using NLLB, including all steps from preprocessing to final output:
 
-[📄 squad_translation_example_log.md](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/NLLB_Translation/squad_translation_example_log.md)
+[squad_translation_example_log.md](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/NLLB_Translation/squad_translation_example_log.md)
 
 # References
 
