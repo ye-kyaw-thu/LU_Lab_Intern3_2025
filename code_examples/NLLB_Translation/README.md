@@ -16,4 +16,4 @@ This log demonstrates the complete SQuAD dataset translation process using NLLB,
 # References
 
 1. [NLLB Experiment Log](https://github.com/ye-kyaw-thu/error-overflow/blob/master/nllb-exp.md)
-2. [NLLB API](https://github.com/winstxnhdw/nllb-api)  
+2. [NLLB API (CPU-based)](https://github.com/winstxnhdw/nllb-api)  
