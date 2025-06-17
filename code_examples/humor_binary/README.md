@@ -575,7 +575,7 @@ sys     0m0.065s
 
 ### Testing with Pre-trained KNN Model  
 
-```
+```bash
 (humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection_ver1.0.py --test --model_file models/knn_model.joblib --te
 st_file kaggle/data/test.csv
 Loading model from models/knn_model.joblib...
