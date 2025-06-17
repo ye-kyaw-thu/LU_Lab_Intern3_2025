@@ -77,6 +77,19 @@ options:
 (humor) ye@lst-hpc3090:~/intern3/humor$
 ```
 
+## Input File Format
+
+```
+text,label
+"funny sentence here",1
+"serious sentence here",0
+```
+
+Labels can be:  
+
+    - Numeric: 0 (not humor) or 1 (humor)  
+    - Text: "humor"/"not humor", "true"/"false", etc.  
+    
 ## Example Runs  
 
 ### Dataset Information
