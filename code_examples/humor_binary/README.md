@@ -204,6 +204,36 @@ user    0m35.508s
 sys     0m0.147s
 ```
 
+### Run Random-Forest with Specific Settings
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier random_forest --train_file ./kaggle/data/train.csv --test_file ./kaggle/data/test.csv --rf_n_estimators 200 --rf_max_depth 10
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Training Random Forest...
+
+Evaluation Results:
+Accuracy: 0.7466
+Precision: 0.8299
+Recall: 0.6321
+F1 Score: 0.7176
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.87      0.77      2453
+           1       0.83      0.63      0.72      2547
+
+    accuracy                           0.75      5000
+   macro avg       0.76      0.75      0.74      5000
+weighted avg       0.76      0.75      0.74      5000
+
+
+real    0m1.901s
+user    0m6.903s
+sys     0m0.101s
+```
+
 ```
 
 ```
