@@ -1,6 +1,6 @@
 # Scripts for NLLB Translation
 
-1. **`nllb-translate.sh`** - Main shell script for NLLB translation
+1. **`[nllb-translate.sh](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/NLLB_Translation/nllb-translate.sh)`** - Main shell script for NLLB translation
 2. **`squad_train2my.sh`** - Translates SQuAD training data to Myanmar language
 3. **`squad_valid2my.sh`** - Translates SQuAD validation data to Myanmar language
 
