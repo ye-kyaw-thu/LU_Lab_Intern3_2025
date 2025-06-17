@@ -90,7 +90,37 @@ humor_50k.csv  humor_50k.shuf.csv  test.csv  train.csv
    5000   35510  228886 test.csv
   50001  354846 2290501 total
 ```
- 
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor/kaggle/data$ head ./train.csv
+truli headscratch moment donald trump press confer infrastructur,0
+indian chief friend got indian chief tattoo arm arm never work,1
+destin wed tip bridesmaid budget,0
+dark alley johnni optimist beat half life,1
+horni pirat worst nightmar sunken chest booti,1
+mathematician work home function domain,1
+bought drug shoe dealer unlac still got high heel,1
+virginia museum open costa concordia exhibit memori day weekend photo,0
+peopl nt realiz chickpea get everi manpea make,1
+betabrand hire graduat student model result pretti great,0
+(humor) ye@lst-hpc3090:~/intern3/humor/kaggle/data$
+```
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor/kaggle/data$ tail ./test.csv
+rob gray man bun ncaa tournament,0
+texa put undu burden women choic abort clinic tell suprem court,0
+alabama gop told gay sheriff candid run republican,0
+nt phone sex might get hear aid,1
+not lazi energi save mode,1
+q nt blond like butter toast ca nt figur side butter goe,1
+like coffe like like tea hot splash milk,1
+hope nt take joke liter pleas return later,1
+syrian increasingli desper escap wartorn countri,0
+herb chicken thigh roast paper bag,0
+(humor) ye@lst-hpc3090:~/intern3/humor/kaggle/data$
+```
+
 ### Run Only SVM
 
 ```
