@@ -19,7 +19,7 @@ numpy==2.3.0
 tabulate==0.9.0
 ```
 
-***ကိုယ့်စက်ထဲမှာက အထက်ပါ ဗားရှင်နံပါတ်အတိအကျနဲ့ အဆင်မပြေရင် ဗာရှင်းကို မသတ်မှတ်ပဲ install လုပ်ပါ***  
+**ကိုယ့်စက်ထဲမှာက အထက်ပါ ဗားရှင်နံပါတ်အတိအကျနဲ့ အဆင်မပြေရင် ဗာရှင်းကို မသတ်မှတ်ပဲ install လုပ်ပါ**  
 
 ## Usage
 
@@ -27,6 +27,54 @@ tabulate==0.9.0
 
 ```
 python ml_humor_detection.py --train_file train.csv --test_file test.csv
+```
+
+### Command Line Options  
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ python3.13 ./ml_humor_detection.py --help
+usage: ml_humor_detection.py [-h] [--train_file TRAIN_FILE] [--test_file TEST_FILE]
+                             [--classifier {all,svm,random_forest,logistic_regression,naive_bayes,knn,decision_tree,adaboost,gradient_boosting,voting}]
+                             [--svm_kernel {linear,rbf,poly,sigmoid}] [--svm_c SVM_C] [--rf_n_estimators RF_N_ESTIMATORS]
+                             [--rf_max_depth RF_MAX_DEPTH] [--lr_c LR_C] [--lr_penalty {l1,l2,elasticnet,none}]
+                             [--nb_alpha NB_ALPHA] [--knn_n_neighbors KNN_N_NEIGHBORS] [--dt_max_depth DT_MAX_DEPTH]
+                             [--ab_n_estimators AB_N_ESTIMATORS] [--ab_learning_rate AB_LEARNING_RATE]
+                             [--gb_n_estimators GB_N_ESTIMATORS] [--gb_learning_rate GB_LEARNING_RATE]
+
+Humor Detection using Traditional ML Techniques
+
+options:
+  -h, --help            show this help message and exit
+  --train_file TRAIN_FILE
+                        Path to training CSV file (default: train.csv)
+  --test_file TEST_FILE
+                        Path to testing CSV file (default: test.csv)
+  --classifier {all,svm,random_forest,logistic_regression,naive_bayes,knn,decision_tree,adaboost,gradient_boosting,voting}
+                        Classifier to use (default: all)
+  --svm_kernel {linear,rbf,poly,sigmoid}
+                        Kernel type for SVM (default: linear)
+  --svm_c SVM_C         Regularization parameter for SVM (default: 1.0)
+  --rf_n_estimators RF_N_ESTIMATORS
+                        Number of trees in Random Forest (default: 100)
+  --rf_max_depth RF_MAX_DEPTH
+                        Maximum depth of trees in Random Forest (default: None)
+  --lr_c LR_C           Inverse of regularization strength for Logistic Regression (default: 1.0)
+  --lr_penalty {l1,l2,elasticnet,none}
+                        Penalty norm for Logistic Regression (default: l2)
+  --nb_alpha NB_ALPHA   Additive smoothing parameter for Naive Bayes (default: 1.0)
+  --knn_n_neighbors KNN_N_NEIGHBORS
+                        Number of neighbors for KNN (default: 5)
+  --dt_max_depth DT_MAX_DEPTH
+                        Maximum depth for Decision Tree (default: None)
+  --ab_n_estimators AB_N_ESTIMATORS
+                        Number of estimators for AdaBoost (default: 50)
+  --ab_learning_rate AB_LEARNING_RATE
+                        Learning rate for AdaBoost (default: 1.0)
+  --gb_n_estimators GB_N_ESTIMATORS
+                        Number of estimators for Gradient Boosting (default: 100)
+  --gb_learning_rate GB_LEARNING_RATE
+                        Learning rate for Gradient Boosting (default: 0.1)
+(humor) ye@lst-hpc3090:~/intern3/humor$
 ```
 
 
