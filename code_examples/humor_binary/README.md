@@ -93,11 +93,11 @@ Labels can be:
 ## Output
 
 The program will display:  
-    - Training progress for each classifier
-    - Evaluation metrics (accuracy, precision, recall, F1)
-    - Classification report
-    - Comparison table when running all classifiers
-    - Identification of the best performing model
+    - Training progress for each classifier  
+    - Evaluation metrics (accuracy, precision, recall, F1)  
+    - Classification report  
+    - Comparison table when running all classifiers  
+    - Identification of the best performing model  
     
 ## Example Runs  
 
