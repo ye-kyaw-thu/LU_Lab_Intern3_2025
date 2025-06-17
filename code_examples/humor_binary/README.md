@@ -86,18 +86,17 @@ text,label
 ```
 
 Labels can be:  
-
-    - Numeric: 0 (not humor) or 1 (humor)  
-    - Text: "humor"/"not humor", "true"/"false", etc.  
+- Numeric: 0 (not humor) or 1 (humor)  
+- Text: "humor"/"not humor", "true"/"false", etc.  
 
 ## Output
 
 The program will display:  
-    - Training progress for each classifier  
-    - Evaluation metrics (accuracy, precision, recall, F1)  
-    - Classification report  
-    - Comparison table when running all classifiers  
-    - Identification of the best performing model  
+- Training progress for each classifier
+- Evaluation metrics (accuracy, precision, recall, F1)  
+- Classification report  
+- Comparison table when running all classifiers  
+- Identification of the best performing model  
     
 ## Example Runs  
 
