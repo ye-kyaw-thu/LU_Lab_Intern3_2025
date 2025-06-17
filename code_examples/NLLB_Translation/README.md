@@ -3,6 +3,9 @@
 1. **`nllb-translate.sh`** - Main shell script for NLLB translation
 2. **`squad_train2my.sh`** - Translates SQuAD training data to Myanmar language
 3. **`squad_valid2my.sh`** - Translates SQuAD validation data to Myanmar language
+4. **`parquet_extractor.py`** - Extracts text data from Parquet format files  
+5. **`extract_csv_field.py`** - Extracts specific CSV fields into separate text files  
+6. **`extract_squad_fields.sh`** - Batch processes SQuAD Parquet files (both training and validation)  
 
 # Execution Log
 
