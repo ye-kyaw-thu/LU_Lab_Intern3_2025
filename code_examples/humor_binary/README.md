@@ -402,8 +402,7 @@ Major improvements over previous version:
 ### New Features
 - **Multilingual Support**:
   - Removed English-only limitations
-  - Added UTF-8 encoding for text processing
-  - Support for Myanmar, Thai, Lao and other languages
+  - Added UTF-8 encoding for text processing (i.e. Support for Myanmar, Thai, Lao and other languages)  
   - Basic token pattern suitable for multiple scripts
 
 - **Model Persistence**:
