@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Written by Ye, LU Lab., Myanmar
+# for extracting SQuAD fields  
+
 # Function to process a single CSV file
 process_file() {
     local input_file=$1
