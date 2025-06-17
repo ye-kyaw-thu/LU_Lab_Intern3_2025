@@ -395,3 +395,99 @@ sys     0m1.258s
 - **No cross-validation**: Uses simple train-test split without k-fold validation
 - **English-only**: Text processing assumes English language content
 
+## Version 1.0 Information
+
+
+## Example Runs for Version 1.0  
+
+```
+time python3.13 ./ml_humor_detection_ver1.0.py --train_file kaggle/data/train.csv --test_file kaggle/data/test.csv | tee ver1.train_all.log2
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Running all classifiers...
+
+Training Svm...
+Model saved to models/svm_model.joblib
+Completed in 250.94 seconds
+Accuracy: 0.8786
+F1 Score: 0.8811
+
+Training Random Forest...
+Model saved to models/random_forest_model.joblib
+Completed in 28.09 seconds
+Accuracy: 0.8400
+F1 Score: 0.8480
+
+Training Logistic Regression...
+Model saved to models/logistic_regression_model.joblib
+Completed in 0.10 seconds
+Accuracy: 0.8810
+F1 Score: 0.8829
+
+Training Naive Bayes...
+Model saved to models/naive_bayes_model.joblib
+Completed in 0.04 seconds
+Accuracy: 0.8744
+F1 Score: 0.8775
+
+Training Knn...
+Model saved to models/knn_model.joblib
+Completed in 1.58 seconds
+Accuracy: 0.6644
+
+Training Decision Tree...
+Model saved to models/decision_tree_model.joblib
+Completed in 8.69 seconds
+Accuracy: 0.7824
+F1 Score: 0.7917
+
+Training Adaboost...
+Model saved to models/adaboost_model.joblib
+Completed in 1.39 seconds
+Accuracy: 0.6444
+F1 Score: 0.5251
+
+Training Gradient Boosting...
+Model saved to models/gradient_boosting_model.joblib
+Completed in 6.63 seconds
+Accuracy: 0.7526
+F1 Score: 0.7261
+
+Training Voting...
+Model saved to models/voting_model.joblib
+Completed in 282.18 seconds
+Accuracy: 0.8826
+F1 Score: 0.8860
+
+
+Comparison of All Classifiers:
++---------------------+------------+-------------+----------+------------+---------+
+| Model               |   Accuracy |   Precision |   Recall |   F1 Score | Time    |
++=====================+============+=============+==========+============+=========+
+| Svm                 |     0.8786 |      0.8789 |   0.8834 |     0.8811 | 250.94s |
++---------------------+------------+-------------+----------+------------+---------+
+| Random Forest       |     0.84   |      0.8217 |   0.8759 |     0.848  | 28.09s  |
++---------------------+------------+-------------+----------+------------+---------+
+| Logistic Regression |     0.881  |      0.8852 |   0.8806 |     0.8829 | 0.10s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Naive Bayes         |     0.8744 |      0.872  |   0.883  |     0.8775 | 0.04s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Knn                 |     0.6644 |      0.8932 |   0.3875 |     0.5405 | 1.58s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Decision Tree       |     0.7824 |      0.7725 |   0.8119 |     0.7917 | 8.69s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Adaboost            |     0.6444 |      0.8212 |   0.3859 |     0.5251 | 1.39s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Gradient Boosting   |     0.7526 |      0.8325 |   0.6439 |     0.7261 | 6.63s   |
++---------------------+------------+-------------+----------+------------+---------+
+| Voting              |     0.8826 |      0.8763 |   0.896  |     0.886  | 282.18s |
++---------------------+------------+-------------+----------+------------+---------+
+
+Best model: Voting with F1 score: 0.8860
+Model saved to: models/voting_model.joblib
+
+real    9m40.673s
+user    9m47.655s
+sys     0m1.141s
+(humor) ye@lst-hpc3090:~/intern3/humor$
+```
