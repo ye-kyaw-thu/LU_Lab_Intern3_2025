@@ -89,6 +89,15 @@ Labels can be:
 
     - Numeric: 0 (not humor) or 1 (humor)  
     - Text: "humor"/"not humor", "true"/"false", etc.  
+
+## Output
+
+The program will display:  
+    - Training progress for each classifier
+    - Evaluation metrics (accuracy, precision, recall, F1)
+    - Classification report
+    - Comparison table when running all classifiers
+    - Identification of the best performing model
     
 ## Example Runs  
 
@@ -228,7 +237,7 @@ user    0m7.338s
 sys     0m0.099s
 ```
 
-## Run Only Random-Forest
+### Run Only Random-Forest
 
 ```
 (humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier random_forest --train_fil
@@ -259,7 +268,7 @@ user    0m35.508s
 sys     0m0.147s
 ```
 
-### Run Random-Forest with Specific Settings
+### Run Only Random-Forest with Specific Settings
 
 ```
 (humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier random_forest --train_file ./kaggle/data/train.csv --test_file ./kaggle/data/test.csv --rf_n_estimators 200 --rf_max_depth 10
