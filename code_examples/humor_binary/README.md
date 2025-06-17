@@ -383,4 +383,15 @@ sys     0m1.258s
 (humor) ye@lst-hpc3090:~/intern3/humor$
 ```
 
+## Limitations
+
+**Note**: This code serves as an educational example for internship students and has several technical limitations:
+
+- **No model persistence**: Trained models are not saved to disk for future use
+- **No modular execution**: Cannot run only training or only testing separately
+- **Basic text preprocessing**: Limited to TF-IDF with minimal text cleaning
+- **Fixed hyperparameters**: No built-in hyperparameter tuning (grid/random search)
+- **Memory intensive**: Loads entire datasets into memory (not suitable for very large datasets)
+- **No cross-validation**: Uses simple train-test split without k-fold validation
+- **English-only**: Text processing assumes English language content
 
