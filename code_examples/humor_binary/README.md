@@ -383,7 +383,7 @@ sys     0m1.258s
 (humor) ye@lst-hpc3090:~/intern3/humor$
 ```
 
-## Limitations
+## Limitations of Version 0.9
 
 **Note**: This code serves as an educational example for internship students and has several technical limitations:
 
