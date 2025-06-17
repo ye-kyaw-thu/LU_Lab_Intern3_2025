@@ -79,6 +79,18 @@ options:
 
 ## Example Runs  
 
+### Dataset Information
+
+Link: [https://www.kaggle.com/datasets/amaanmansuri/humor-detection](https://www.kaggle.com/datasets/amaanmansuri/humor-detection)  
+
+```
+humor_50k.csv  humor_50k.shuf.csv  test.csv  train.csv
+(humor) ye@lst-hpc3090:~/intern3/humor/kaggle/data$ wc {train,test}.csv
+  45001  319336 2061615 train.csv
+   5000   35510  228886 test.csv
+  50001  354846 2290501 total
+```
+ 
 ### Run Only SVM
 
 ```
