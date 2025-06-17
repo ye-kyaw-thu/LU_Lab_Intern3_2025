@@ -395,10 +395,31 @@ sys     0m1.258s
 - **No cross-validation**: Uses simple train-test split without k-fold validation
 - **English-only**: Text processing assumes English language content
 
-## Version 1.0 Information
+## Version 1.0 Updates
+
+Major improvements over previous version:
+
+### New Features
+- **Multilingual Support**:
+  - Removed English-only limitations
+  - Added UTF-8 encoding for text processing
+  - Support for Myanmar, Thai, Lao and other languages
+  - Basic token pattern suitable for multiple scripts
+
+- **Model Persistence**:
+  - Save trained models to disk (.joblib format)
+  - Load pre-trained models for evaluation
+  - Includes both classifier and vectorizer in saved files
+
+- **Enhanced Testing Mode**:
+  - New `--test` flag for test-only execution
+  - Specify model file with `--model_file`
+  - Supports testing individual saved models
 
 
-## Example Runs for Version 1.0  
+## Example Runs for Version 1.0 
+
+### 1. Training and Testing All Classifiers
 
 ```
 time python3.13 ./ml_humor_detection_ver1.0.py --train_file kaggle/data/train.csv --test_file kaggle/data/test.csv | tee ver1.train_all.log2
@@ -491,3 +512,95 @@ user    9m47.655s
 sys     0m1.141s
 (humor) ye@lst-hpc3090:~/intern3/humor$
 ```
+
+### Testing with Pre-trained Random Forest Model  
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection_ver1.0.py --test --model_file models/random_forest_model.joblib --test_file kaggle/data/test.csv
+Loading model from models/random_forest_model.joblib...
+Unique labels in test set: {np.int64(0), np.int64(1)}
+
+Evaluation Results:
+Accuracy: 0.8400
+Precision: 0.8217
+Recall: 0.8759
+F1 Score: 0.8480
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.80      0.83      2453
+           1       0.82      0.88      0.85      2547
+
+    accuracy                           0.84      5000
+   macro avg       0.84      0.84      0.84      5000
+weighted avg       0.84      0.84      0.84      5000
+
+
+real    0m0.944s
+user    0m5.865s
+sys     0m0.181s
+(humor) ye@lst-hpc3090:~/intern3/humor$
+```
+
+### Testing with Pre-trained SVM Model 
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection_ver1.0.py --test --model_file models/svm_model.joblib --test_file kaggle/data/test.csv
+Loading model from models/svm_model.joblib...
+Unique labels in test set: {np.int64(0), np.int64(1)}
+
+Evaluation Results:
+Accuracy: 0.8786
+Precision: 0.8789
+Recall: 0.8834
+F1 Score: 0.8811
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.87      0.88      2453
+           1       0.88      0.88      0.88      2547
+
+    accuracy                           0.88      5000
+   macro avg       0.88      0.88      0.88      5000
+weighted avg       0.88      0.88      0.88      5000
+
+
+real    0m3.077s
+user    0m8.115s
+sys     0m0.065s
+(humor) ye@lst-hpc3090:~/intern3/humor$
+```
+
+### Testing with Pre-trained KNN Model  
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection_ver1.0.py --test --model_file models/knn_model.joblib --te
+st_file kaggle/data/test.csv
+Loading model from models/knn_model.joblib...
+Unique labels in test set: {np.int64(0), np.int64(1)}
+
+Evaluation Results:
+Accuracy: 0.6644
+Precision: 0.8932
+Recall: 0.3875
+F1 Score: 0.5405
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.95      0.74      2453
+           1       0.89      0.39      0.54      2547
+
+    accuracy                           0.66      5000
+   macro avg       0.75      0.67      0.64      5000
+weighted avg       0.75      0.66      0.64      5000
+
+
+real    0m2.104s
+user    0m6.405s
+sys     0m0.801s
+(humor) ye@lst-hpc3090:~/intern3/humor$
+```
+
