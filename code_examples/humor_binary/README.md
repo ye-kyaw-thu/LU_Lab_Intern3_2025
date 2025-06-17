@@ -234,7 +234,54 @@ user    0m6.903s
 sys     0m0.101s
 ```
 
+### Run All Classifiers (default)
+
 ```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --train_file ./kaggle/data/train.csv -
+-test_file ./kaggle/data/test.csv
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Running all classifiers...
+
+Training Svm...
+Completed in 242.97 seconds
+Accuracy: 0.8618
+F1 Score: 0.8648
+
+Training Random Forest...
+Completed in 29.69 seconds
+Accuracy: 0.8416
+F1 Score: 0.8480
+
+Training Logistic Regression...
+Completed in 0.04 seconds
+Accuracy: 0.8652
+F1 Score: 0.8680
+
+Training Naive Bayes...
+Completed in 0.01 seconds
+Accuracy: 0.8658
+F1 Score: 0.8687
+
+Training Knn...
+Completed in 1.55 seconds
+Accuracy: 0.6062
+F1 Score: 0.7073
+
+Training Decision Tree...
+Completed in 6.03 seconds
+Accuracy: 0.7998
+F1 Score: 0.8038
+
+Training Adaboost...
+Completed in 1.22 seconds
+Accuracy: 0.6028
+F1 Score: 0.7137
+
+Training Gradient Boosting...
+Completed in 5.93 seconds
+Accuracy: 0.7214
+F1 Score: 0.6734
 
 ```
 
