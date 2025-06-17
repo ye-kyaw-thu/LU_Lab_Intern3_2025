@@ -77,5 +77,135 @@ options:
 (humor) ye@lst-hpc3090:~/intern3/humor$
 ```
 
+## Example Runs  
+
+### Run Only SVM
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier svm --train_file ./kaggle
+/data/train.csv --test_file ./kaggle/data/test.csv
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Training Svm...
+
+Evaluation Results:
+Accuracy: 0.8618
+Precision: 0.8619
+Recall: 0.8677
+F1 Score: 0.8648
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.86      0.86      2453
+           1       0.86      0.87      0.86      2547
+
+    accuracy                           0.86      5000
+   macro avg       0.86      0.86      0.86      5000
+weighted avg       0.86      0.86      0.86      5000
+
+
+real    3m59.265s
+user    4m4.133s
+sys     0m0.209s
+(humor) ye@lst-hpc3090:~/intern3/humor$
+```
+
+### Run Only KNN
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier knn --train_file ./kaggle
+/data/train.csv --test_file ./kaggle/data/test.csv
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Training Knn...
+
+Evaluation Results:
+Accuracy: 0.6034
+Precision: 0.5673
+Recall: 0.9333
+F1 Score: 0.7057
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.26      0.39      2453
+           1       0.57      0.93      0.71      2547
+
+    accuracy                           0.60      5000
+   macro avg       0.68      0.60      0.55      5000
+weighted avg       0.68      0.60      0.55      5000
+
+
+real    0m2.517s
+user    0m6.819s
+sys     0m0.799s
+```
+
+### Run Only Adaboost
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier adaboost --train_file ./k
+aggle/data/train.csv --test_file ./kaggle/data/test.csv
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Training Adaboost...
+
+Evaluation Results:
+Accuracy: 0.6028
+Precision: 0.5639
+Recall: 0.9717
+F1 Score: 0.7137
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.22      0.35      2453
+           1       0.56      0.97      0.71      2547
+
+    accuracy                           0.60      5000
+   macro avg       0.72      0.60      0.53      5000
+weighted avg       0.72      0.60      0.54      5000
+
+
+real    0m2.335s
+user    0m7.338s
+sys     0m0.099s
+```
+
+## Run Only Random-Forest
+
+```
+(humor) ye@lst-hpc3090:~/intern3/humor$ time python3.13 ./ml_humor_detection.py --classifier random_forest --train_fil
+e ./kaggle/data/train.csv --test_file ./kaggle/data/test.csv
+Unique labels in training set: {np.int64(0), np.int64(1)}
+Unique labels in test set: {np.int64(0), np.int64(1)}
+Training Random Forest...
+
+Evaluation Results:
+Accuracy: 0.8416
+Precision: 0.8295
+Recall: 0.8673
+F1 Score: 0.8480
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.81      0.83      2453
+           1       0.83      0.87      0.85      2547
+
+    accuracy                           0.84      5000
+   macro avg       0.84      0.84      0.84      5000
+weighted avg       0.84      0.84      0.84      5000
+
+
+real    0m30.554s
+user    0m35.508s
+sys     0m0.147s
+```
+
+```
+
+```
 
 
