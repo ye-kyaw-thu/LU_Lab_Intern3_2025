@@ -7,7 +7,7 @@ y, LU Lab., Myanmar
 
 ## Data Information
 
-အရင် ၂၀၁၈တုန်းက YTU မှာ လုပ်ခဲ့တဲ့ Workshop ဒေတာကို ယူသုံးခဲ့တယ်။  
+အရင် ၂၀၁၈တုန်းက YTU မှာ လုပ်ခဲ့တဲ့ Workshop ဒေတာ (example Myanmar-Rakhine parallel corpus) ကို ယူသုံးခဲ့တယ်။  
 Link: [https://github.com/ye-kyaw-thu/MTRSS](https://github.com/ye-kyaw-thu/MTRSS)    
 
 ```
