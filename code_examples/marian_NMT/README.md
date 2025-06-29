@@ -413,7 +413,7 @@ vocab.my.yml ဖိုင်ထဲမှာက...
 
 ## Shell Script Preparation for Training  
 
-(base) ye@lst-hpc3090:~/exp/nmt/my-rk$ cat tf.myth.zen.chk1.sh  
+(base) ye@lst-hpc3090:~/exp/nmt/my-rk$ cat tf.myrk.sh  
 
 ```bash
 ## Written by Ye Kyaw Thu, LST, NECTEC, Thailand
@@ -500,7 +500,7 @@ Sun Jun 29 18:15:30 2025
 
 ## Config File Information
 
-configuration file က tf.myth.zen.chk1.sh ကို run လိုက်ရင် ဆောက်ပေးပါလိမ့်မယ်။  
+configuration file က tf.myrk.sh ကို run လိုက်ရင် ဆောက်ပေးပါလိမ့်မယ်။  
 အဲဒီ config ဖိုင်ထဲမှာ ပေးထားတဲ့ parameter, path စတဲ့ အချက်အလက်တွေနဲ့ marian က NMT model ဆောက်ပေးမှာပါ။  
 
 (base) ye@lst-hpc3090:~/exp/nmt/my-rk/my-rk/model.tf.myrk$ cat my-rk.config.yml  
