@@ -974,4 +974,4 @@ BLEU = 44.88, 72.8/53.5/44.3/38.6 (BP=0.883, ratio=0.890, hyp_len=588, ref_len=6
 (base) ye@lst-hpc3090:~/exp/nmt/my-rk/my-rk/model.tf.myrk$
 ```
 
-တခြား NMT Framework တွေလည်း ရှိပါသေးတယ်။ ဥပမာ OpenNMT, FairSeq တို့နဲ့ပါ မော်ဒယ်တွေ ဆောက်ကြည့်ပြီး NMT ကို လေ့လာသွားကြပါလို့။  
+တခြား NMT Framework တွေလည်း ရှိပါသေးတယ်။ ဥပမာ [OpenNMT](https://github.com/OpenNMT/OpenNMT-py), [FairSeq](https://github.com/facebookresearch/fairseq) တို့နဲ့ပါ မော်ဒယ်တွေ ဆောက်ကြည့်ပြီး NMT ကို လေ့လာသွားကြပါလို့။  
