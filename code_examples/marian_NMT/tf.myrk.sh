@@ -2,6 +2,7 @@
 
 ## Written by Ye Kyaw Thu, LST, NECTEC, Thailand
 ## Experiments for my-rk demo for Internship3 Students
+## Last Updated: 29 June 2025
 
 ## Old Notes
 #     --mini-batch-fit -w 10000 --maxi-batch 1000 \
