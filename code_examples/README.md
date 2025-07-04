@@ -6,3 +6,4 @@ This folder contains example code for my internship students. These examples dem
 
 1. [humor_binary](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/code_examples/humor_binary)
 2. [NLLB_Translation](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/code_examples/NLLB_Translation)
+3. [image captioning with myFlickr30k](https://github.com/ye-kyaw-thu/myFlickr30k)
