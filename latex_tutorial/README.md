@@ -1,6 +1,6 @@
 # Latex Tutorial
 
-Internship report ကို latex နဲ့ ရေးကြရအောင်။  
+Internship final report ကို latex နဲ့ ရေးကြရအောင်။  
 
 ## Folder/File Information
 
