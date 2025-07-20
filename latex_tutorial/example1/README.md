@@ -36,14 +36,20 @@ fc-list | grep -i "myanmar\|padauk"
 ## How to Compile
 
 ```bash
-pdflatex intro_latex_example.tex
-biber intro_latex_example
-pdflatex intro_latex_example.tex
-pdflatex intro_latex_example.tex
+pdflatex intro_latex.tex
+biber intro_latex
+pdflatex intro_latex.tex
+pdflatex intro_latex.tex
 ```
 
 OR  
 
+```bash
+xelatex intro_latex.tex
+biber intro_latex
+xelatex intro_latex.tex
+xelatex intro_latex.tex
+```
 For your convenience, I wrote a shell script and you can run as follows:  
 
 ```bash
