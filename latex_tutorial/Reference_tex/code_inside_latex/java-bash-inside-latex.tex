@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+
+\begin{document}
+
+\begin{lstlisting}[language=Java,caption={Java version}]
+public class HelloWorld {
+   // Here's the main class
+   public static void main(String[] args) {
+       System.out.println("Hello, world!");
+   }
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=bash,caption={bash version}]
+#!/bin/bash
+echo "Hello, world!"
+\end{lstlisting}
+
+\end{document}
