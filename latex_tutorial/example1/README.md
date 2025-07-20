@@ -2,17 +2,25 @@
 
 ## Install Xelatex and Fonts
 
+```bash
 sudo apt install texlive-xetex
+```
 
-OR
+OR  
 
 including Fonts:  
+
+```bash
 sudo apt install texlive-xetex texlive-fonts-recommended texlive-fonts-extra fonts-noto
- 
+```
+
 ## Install biblatex
 
-If you're using a TeX Live system (most likely on Linux), you can install biblatex via the terminal:
+If you're using a TeX Live system (most likely on Linux), you can install biblatex via the terminal:  
+
+```bash
 sudo tlmgr install biblatex
+```
 
 ## Check Myanmar Fonts
 
@@ -29,7 +37,7 @@ pdflatex intro_latex_example.tex
 pdflatex intro_latex_example.tex
 ```
 
-OR
+OR  
 
 For your convenience, I wrote a shell script and you can run as follows:  
 
