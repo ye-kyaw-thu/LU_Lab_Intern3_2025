@@ -1,9 +1,11 @@
 # Tex Sources
 
 ## Paper
-
-လောလောဆယ်တော့ myNER နဲ့ LREC-COLING 2024 ASR စာတမ်းနှစ်စောင်ရဲ့ source file အားလုံးကို တင်ပေးထားတယ်။  
+ 
+1. myNER စာတမ်း
+2. LREC-COLING 2024 ASR စာတမ်း
 
 ## Poster  
 
-
+1. RL-NMT စာတမ်း ပိုစတာ
+2. Dr. Zen ရဲ့ LU Talk ပိုစတာ
