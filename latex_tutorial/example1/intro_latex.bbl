@@ -1,0 +1,142 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{lamport1994latex}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LaTeX: A Document Preparation System}
+      \field{year}{1994}
+    \endentry
+    \entry{htun-etal-2024-mymedicon}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=aa86f91ece055945e1d2d6d69fa18fa4}{%
+           family={Htun},
+           familyi={H\bibinitperiod},
+           given={Hay\bibnamedelima Man},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e938fc30143f531ce4e42c7613a1b0c0}{%
+           family={Kyaw\bibnamedelima Thu},
+           familyi={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=08475ba8fb04981304fb33c8e86dbc9e}{%
+           family={Chanlekha},
+           familyi={C\bibinitperiod},
+           given={Hutchatai},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c60acff87acf111c96d145f171844109}{%
+           family={Funakoshi},
+           familyi={F\bibinitperiod},
+           given={Kotaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=335f1da22885c65293201b70fbd8b896}{%
+           family={Supnithi},
+           familyi={S\bibinitperiod},
+           given={Thepchai},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=c341e33a4b6ea903f6c723a46650c1be}{%
+           family={Calzolari},
+           familyi={C\bibinitperiod},
+           given={Nicoletta},
+           giveni={N\bibinitperiod}}}%
+        {{hash=549f49a0f40722c52169e0083730d12f}{%
+           family={Kan},
+           familyi={K\bibinitperiod},
+           given={Min-Yen},
+           giveni={M\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=a2552991b1433efe99cce9b2a665aae7}{%
+           family={Hoste},
+           familyi={H\bibinitperiod},
+           given={Veronique},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5ca65e378c2b71d06107979d273315ed}{%
+           family={Lenci},
+           familyi={L\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8f51dd1b39e7ef8aa830c97a98536583}{%
+           family={Sakti},
+           familyi={S\bibinitperiod},
+           given={Sakriani},
+           giveni={S\bibinitperiod}}}%
+        {{hash=47c3156f10dfabf6842e8caf450fda15}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Nianwen},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Torino, Italia}%
+      }
+      \list{publisher}{2}{%
+        {ELRA}%
+        {ICCL}%
+      }
+      \strng{namehash}{b8b391fa5ff3bb794e042587643b4b09}
+      \strng{fullhash}{db47edcdac86f700fe6a878cdb73214b}
+      \strng{bibnamehash}{b8b391fa5ff3bb794e042587643b4b09}
+      \strng{authorbibnamehash}{b8b391fa5ff3bb794e042587643b4b09}
+      \strng{authornamehash}{b8b391fa5ff3bb794e042587643b4b09}
+      \strng{authorfullhash}{db47edcdac86f700fe6a878cdb73214b}
+      \strng{editorbibnamehash}{c0f71bf98493a021e0ad741a5193b2ff}
+      \strng{editornamehash}{c0f71bf98493a021e0ad741a5193b2ff}
+      \strng{editorfullhash}{67cc341797d15e0b10b5e05c259573e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)}
+      \field{month}{5}
+      \field{title}{my{M}edi{C}on: End-to-End {B}urmese Automatic Speech Recognition for Medical Conversations}
+      \field{year}{2024}
+      \field{pages}{12032\bibrangedash 12039}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://aclanthology.org/2024.lrec-main.1051/
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/2024.lrec-main.1051/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

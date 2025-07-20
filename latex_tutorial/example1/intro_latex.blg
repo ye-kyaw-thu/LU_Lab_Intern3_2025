@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'intro_latex.blg'
+[31] biber:340> INFO - === Sun Jul 20, 2025, 18:17:45
+[37] Biber.pm:419> INFO - Reading 'intro_latex.bcf'
+[63] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[68] Biber.pm:4419> INFO - Processing section 0
+[72] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[73] bibtex.pm:1713> INFO - LaTeX decoding ...
+[74] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[98] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[98] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[98] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[98] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[101] bbl.pm:660> INFO - Writing 'intro_latex.bbl' with encoding 'UTF-8'
+[101] bbl.pm:763> INFO - Output to intro_latex.bbl

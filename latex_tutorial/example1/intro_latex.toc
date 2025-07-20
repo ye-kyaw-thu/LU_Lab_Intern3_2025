@@ -1,0 +1,17 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Text Formatting}{2}{section.2}%
+\contentsline {section}{\numberline {3}Lists}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Itemized List}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Enumerated List}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Math Examples}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Inline Math}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Displayed Math}{2}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Equation Environment}{2}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Cases}{2}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Tables}{3}{section.5}%
+\contentsline {section}{\numberline {6}Figures}{3}{section.6}%
+\contentsline {section}{\numberline {7}Cross References}{3}{section.7}%
+\contentsline {section}{\numberline {8}Code Listing}{3}{section.8}%
+\contentsline {section}{\numberline {9}Bibliography}{3}{section.9}%
+\contentsline {section}{\numberline {10}Custom Command}{4}{section.10}%
