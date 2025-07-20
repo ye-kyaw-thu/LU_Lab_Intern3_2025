@@ -1,4 +1,3 @@
-
 # Notes
 
 ## Install Xelatex and Fonts
@@ -17,17 +16,23 @@ sudo tlmgr install biblatex
 
 ## Check Myanmar Fonts
 
+```bash
 fc-list | grep -i "myanmar\|padauk"
+```
 
 ## How to Compile
 
+```bash
 pdflatex intro_latex_example.tex
 biber intro_latex_example
 pdflatex intro_latex_example.tex
 pdflatex intro_latex_example.tex
+```
 
 OR
 
-For your convenience, I wrote a shell script and you can run as follows:
-./compile.sh intro_latex
+For your convenience, I wrote a shell script and you can run as follows:  
 
+```bash
+./compile.sh intro_latex
+```
