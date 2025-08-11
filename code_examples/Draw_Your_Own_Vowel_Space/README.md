@@ -20,7 +20,7 @@ Note: `ye` ဆိုတဲ့ နေရာမှာ `ကိုယ့်နာမ
 
 ## 1.Installation
 
-- Praat ကို ကိုယ်စက်မှာ သုံးလို့ရဖို့ installation လုပ်ပါ။  
+- Praat ကို ကိုယ့်စက်မှာ သုံးလို့ရဖို့ installation လုပ်ရပါမယ်။  
 - Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
 - Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
 
