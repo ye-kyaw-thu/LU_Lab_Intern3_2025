@@ -6,4 +6,5 @@
    (Team ၆ခု အဖြစ်ဖွဲ့ပေးခဲ့တယ်)  
 3. [Image_captioning](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/3.Image_captioning)  
    (Image captioning ကို ဥပမာအနေနဲ့ လုပ်ပြခဲ့တယ်)  
-4. 
+4. [WFST]()
+   (FSM, FSA, FST ကို seminar နှစ်ရက်မှာ မိတ်ဆက်ပေးခဲ့တယ်။ WFST ကိုသုံးပြီး word segmentation, POS tagging, dialect machine translation တွေလည်း လက်တွေ့ လုပ်ပြခဲ့တယ်)
