@@ -14,4 +14,7 @@
    Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
    Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
 
-2. 
+2. Record Following Myanmar Vowels
+   - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
+     (သို့မဟုတ်)    
+   - အ အာ အိ အု အေ အဲ အော  
