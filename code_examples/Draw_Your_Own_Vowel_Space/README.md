@@ -203,6 +203,21 @@ Table 1. Essential shortcuts of Praat
 </div> 
 <br>
 
+- Praat script မှာ ပြင်စရာရှိတာ ပြင်ပြီးရင်တော့ run လို့ရပါပြီ
+- အဲဒီ ဖွင့်ထားတဲ့ text editor ကရဲ့ `Run` menu ကနေ `Run` sub-menu ကို နှိပ်လိုက်ပါ။ သို့မဟုတ် `Ctrl-R` ကီးတွဲကိုနှိပ်ပြီး run ပါ။  
+- ဘာ error မှ မရှိရင်တော့ အောက်မှာ ပြထားသလိုမျိုး နံပါတ် ၄ item အသစ်ကဖြစ်တဲ့ `Table formants` ကို list box ထဲမှာ မြင်ရပါလိမ့်မယ်။
+- အောက်ပါ screenshot ကို မှီငြမ်းပါ
+- 
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/22.Run_Praat_script.png" alt="After running praat script" width="650"/>  
+</p>  
+<div align="center">
+   Fig.12 After running praat script for estimating formant frequencies
+</div> 
+<br>
+
 
 ## References
 
