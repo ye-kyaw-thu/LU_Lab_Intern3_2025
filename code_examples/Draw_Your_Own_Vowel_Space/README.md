@@ -16,7 +16,6 @@
 
 <div align="center">
 Table. Essential shortcuts of Praat
-</div>
 
 | Windows       | Mac            | Function                          |
 |--------------|---------------|----------------------------------|
@@ -30,6 +29,7 @@ Table. Essential shortcuts of Praat
 | `Alt+Backspace` | `Option+Delete` | Delete selected boundary        |
 | `Ctrl+R`     | `Command+R`   | Run a script                     |
 | `Ctrl+T`     | `Command+T`   | Run selected portion of a script |
+</div>
 
 3. Record Following Myanmar Vowels with Praat
    - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
