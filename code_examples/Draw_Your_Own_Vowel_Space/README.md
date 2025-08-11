@@ -369,6 +369,17 @@ if __name__ == "__main__":
     ax.set_title("Vowel Space of Ye Kyaw Thu (Male)")
 ```
 
+<br>
+
+- R programming code ကို သုံးပြီး ဆွဲချင်ရင်လည်း ဆွဲလို့ရအောင် repository မှာ တင်ပေးထားပါတယ်။
+- ဒီ code က ဆရာရေးထားတာ မဟုတ်ပါဘူး။ တချို့ လိုအပ်တဲ့ အပိုင်းတွေကိုပဲ ဝင်ပြင်ထားတာပါ။  
+- [Plot_Vowel_Space.R](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/code4graph_drawing/Plot_Vowel_Space.R)
+- Original R code link က [https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R](https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R)  
+
+## 10. Vowel Chart
+
+- ဆရာ့အသံနဲ့ ဖမ်းထားပြီး ဆွဲထားတဲ့ မြန်မာ vowel chart တွေက အောက်ပါအတိုင်းပါ
+
 
 ## References
 
