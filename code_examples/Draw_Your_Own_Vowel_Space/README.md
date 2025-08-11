@@ -50,6 +50,9 @@ Table. Essential shortcuts of Praat
    Fig.1 Recording with Praat (mono, 16KHz)   
 </div> 
 
+- Recording လုပ်ထားတဲ့ ဖိုင်ကို list box မှာပြနေပေမဲ့ hard-drive မှာ မသိမ်းရသေးပါဘူး။
+- Wave file အဖြစ် save လုပ်ဖို့မမေ့ပါနဲ့။  
+
 ## 4. Formant Tracking
 
 - Wave ဖိုင်ကိုဖွင့်ထားပြီး Formants menu အောက်မှာရှိတဲ့ Show formants ကို ရွေးလိုက်ရင် ကွန်ပျူတာက detect လုပ်လို့ရတဲ့ formant line တွေကို အနီရောင်နဲ့ ပြပေးမှာ ဖြစ်ပါတယ်။ အောက်ပါ ဥပမာ ပုံလိုမျိုးပါ။
