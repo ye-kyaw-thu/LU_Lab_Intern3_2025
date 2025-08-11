@@ -122,6 +122,7 @@ Table 1. Essential shortcuts of Praat
 - Wavefile ရော TextGrid ဖိုင်ရော နှစ်ဖိုင်လုံးကို selection မှတ်ပြီးမှ edit လုပ်ပါ
 - Vowel တစ်လုံးချင်းစီအတွက် semgmenation လုပ်ရင်းနဲ့ "အ" ဆိုရင် "a" ၊ "အာ" အသံဆိုရင် "ɑ" ဆိုပြီး text annotation လုပ်သွားပါ။
 
+<br>
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="800"/>  
 </p>  
@@ -132,6 +133,7 @@ Table 1. Essential shortcuts of Praat
 <br>
 
 - အသံဖမ်းထားတဲ့ vowel အားလုံးကို annotation လုပ်ရမှာဖြစ်ပါတယ်။ ဥပမာ အောက်ပါလိုမျိုး ...
+<br>
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="800"/>  
@@ -153,7 +155,7 @@ Table 1. Essential shortcuts of Praat
 
 <br>
 
-- တကယ်လို့ ရှေ့မှာ အသံသွင်းထားတဲ့ wavefile ကို save မလုပ်ရသေးရင်၊ ခု save လုပ်ထားလိုက်ပါဦး။
+- တကယ်လို့ ရှေ့မှာ အသံသွင်းထားတဲ့ wavefile ကို save မလုပ်ရသေးရင်၊ ခု save လုပ်ထားလိုက်ပါဦး။ ဥပမာ။ ။ ye_vowels.wav  
 
 <br>
 
