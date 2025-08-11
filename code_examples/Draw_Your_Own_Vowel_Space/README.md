@@ -1,6 +1,6 @@
 # FYI
 
-## Assignment
+## Assignment-1
 
 - ကိုယ်ဖာသာကိုယ် မြန်မာ ကြိယာအသံတွေကို Praat နဲ့ အသံဖမ်းပြီး Vowel Space (သို့) Vowel Chart ဆွဲကြည့်ပါ။  
 
