@@ -376,6 +376,34 @@ if __name__ == "__main__":
 - [Plot_Vowel_Space.R](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/code4graph_drawing/Plot_Vowel_Space.R)
 - Original R code link က [https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R](https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R)  
 
+### plot_vowel_space.py
+
+သုံးပုံသုံးနည်းက လွယ်ပါတယ်။ --input argument နဲ့ CSV ဖိုင်ကို pass လုပ်ပြီး --output argument နဲ့ .png ဂရဖ်ဖိုင်ရဲ့ နာမည်ကို သတ်မှတ်ပေးယုံပါပဲ။  
+
+```bash
+ye@lst-hpc3090:~/exp/vs$ python plot_vowel_space.py --help
+usage: plot_vowel_space.py [-h] --input INPUT [--output OUTPUT]
+
+options:
+  -h, --help       show this help message and exit
+  --input INPUT
+  --output OUTPUT
+ye@lst-hpc3090:~/exp/vs$
+```
+
+```
+ye@lst-hpc3090:~/exp/vs$ python ./plot_vowel_space.py --input ./ye_formants_utf8.csv --output ye_vowel_space.png
+ye@lst-hpc3090:~/exp/vs$ file ./ye_vowel_space.png
+```
+
+ထွက်လာတဲ့ graph ဖိုင်ကို confirm လုပ်ကြည့်ပါ။
+
+```
+./ye_vowel_space.png: PNG image data, 3000 x 2400, 8-bit/color RGBA, non-interlaced
+ye@lst-hpc3090:~/exp/vs$
+```
+
+
 ## 10. Vowel Chart
 
 - ဆရာ့အသံနဲ့ ဖမ်းထားပြီး ဆွဲထားတဲ့ မြန်မာ vowel chart တွေက အောက်ပါအတိုင်းပါ
