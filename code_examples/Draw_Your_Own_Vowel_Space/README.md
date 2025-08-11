@@ -417,4 +417,5 @@ The following is a good set of video tutorials on speech communication and the c
 6. [X-ray films of speech](https://www.phonetik.uni-muenchen.de/~hoole/kurse/movies/xray/xray_demo.html)
 7. [https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html](https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html)
 8. [https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R](https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R)  
-9. [YouTube Video of Make your own vowel chart](https://www.youtube.com/watch?v=BGW8J4cG0qY)  
+9. [YouTube Video of Make your own vowel chart](https://www.youtube.com/watch?v=BGW8J4cG0qY)
+10. [Draw your own vowel space by Ye](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space)  
