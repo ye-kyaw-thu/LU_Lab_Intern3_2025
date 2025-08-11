@@ -401,7 +401,7 @@ if __name__ == "__main__":
 </div> 
 <br>
 
-## Video Tutorial
+## For Your Learning
 
 The following is a good set of video tutorials on speech communication and the challenges faced by people with hearing loss. It includes a segment on making a vowel chart for the English language, and I highly recommend watching them.  
 
