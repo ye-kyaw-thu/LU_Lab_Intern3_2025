@@ -95,9 +95,9 @@ Table 1. Essential shortcuts of Praat
 ## 5. TextGrid File Preparation
 
 - Segmentation, Annotation မလုပ်ခင်မှာ အရင်ဆုံး TextGrid ဖိုင်ကို ပြင်ဆင်ရပါတယ်
-- Praat ရဲ့ list box မှာ ပေါ်နေတဲ့ wavefile ကို selection မှတ်ပြီး၊ ဘေးဘက်က menu တွေထဲက Annotate ဆိုတာကို ကလစ်နှိပ်ပြီး sub-menu To TextGrid... ဆိုတာကို ရွေးပါ
+- Praat ရဲ့ list box မှာ ပေါ်နေတဲ့ wavefile ကို selection မှတ်ပြီး၊ ဘေးဘက်က menu တွေထဲက `Annotate` ဆိုတာကို ကလစ်နှိပ်ပြီး sub-menu `To TextGrid...` ဆိုတာကို ရွေးပါ
 - Tier ကတော့ တစ်ခုပဲထားပါ။ အော်တိုဖြည့်ပေးထားတာကို ဖျက်လိုက်ပြီး vowels ဆိုပြီး ရိုက်ထည့်ပါ
-- Which of these are point tiers? ရဲ့ textbox ကိုတော့ blank box အနေနဲ့ပဲ ထားပေးပါ
+- `Which of these are point tiers?` ရဲ့ textbox ကိုတော့ blank box အနေနဲ့ပဲ ထားပေးပါ
 - အောက်ပါ ပုံတွေကို မှီငြမ်းပါ
 
 <p align="center">
