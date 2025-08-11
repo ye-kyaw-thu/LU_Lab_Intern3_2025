@@ -182,6 +182,27 @@ Table 1. Essential shortcuts of Praat
 <div align="center">
    Fig.9 Setting same values for "Max. number of formants" and "Formant ceiling (Hz)"
 </div> 
+<br>
+
+- Setting လုပ်ပြီးသွားလို့ OK button ကို နှိပ်လိုက်ရင်တော့ list box မှာ နောက်ထပ် item တစ်ခု တိုးလာတာကို တွေ့ရပါလိမ့်မယ်။
+- ပုံမှန်အားဖြင့်ကတော့ wavefile ရဲ့ ဖိုင်နာမည်ကိုပဲ ယူလိုက်ပြီး ရှေ့က Formant တပ်ပေးပါတယ်။ ဥပမာ။ ။ "Formant ye_vowels" လိုနာမည်မျိုးပါ
+- အဲလို list item အသစ်တိုးလာပြီးရင်တော့ list box ထဲကနေ နံပါတ် ၁ ဖြစ်တဲ့ wavefile နဲ့ နံပါတ် ၂ ဖြစ်တဲ့ TextGrid ကို ရွေး (i.e. selection လုပ်) ပြီး Praat script ကို run ဖို့ပြင်ကြရအောင်
+- `Praat` menu အောက်ကနေ  ` New Praat Script` ဆိုတဲ့ sub-menu ကို နှိပ်လိုက်ပါ
+- ပေါ်လာတဲ့ text edit မှာ [extract_formants_from_annotated_textgrids.praat](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/working_with_Praat/extract_formants_from_annotated_textgrids.praat) ဖိုင်ထဲက code တွေကို copy/paste လုပ်ပါ
+- Praat Script ထဲက `Name$` variable ကို ကိုယ့်ဖိုင်နာမည်တွေနဲ့ တူတဲ့ နာမည်ကို ပေးရပါတယ်။ ဆရာကတော့ "ye_vowels" လို့ ပေးခဲ့ပါတယ်။\
+- ပြီးတော့ `num_timepoints = 10` ဆိုပြီး ထားခဲ့ပါတယ်။ 
+- အောက်ပါ ပုံကို မှီငြမ်းပါ
+
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/21.Praat_script.png" alt="Praat script for estimating formant frequencies" width="650"/>  
+</p>  
+<div align="center">
+   Fig.9 Praat script for estimating formant frequencies
+</div> 
+<br>
+
 
 ## References
 
