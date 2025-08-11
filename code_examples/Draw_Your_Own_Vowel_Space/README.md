@@ -39,3 +39,13 @@
    Fig. Annotation for all vowels
 </div> 
 
+
+## References
+
+1. [Praat Scripting Tutorial](https://www.eleanorchodroff.com/tutorial/PraatScripting.pdf)  
+2. [Burmese Phonology](https://en.wikipedia.org/wiki/Burmese_phonology)  
+3. [Phonemic Chart](https://englishwithlucy.com/phonemic-chart/)  
+4. [https://www.ipachart.com/](https://www.ipachart.com/)  
+5. [https://ipa-reader.com/](https://ipa-reader.com/)  
+6. [X-ray films of speech](https://www.phonetik.uni-muenchen.de/~hoole/kurse/movies/xray/xray_demo.html)
+7. [https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html](https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html)  
