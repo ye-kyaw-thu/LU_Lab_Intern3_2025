@@ -52,6 +52,17 @@ Table. Essential shortcuts of Praat
 
 ## 4. Formant Tracking
 
+- Wave ဖိုင်ကိုဖွင့်ထားပြီး Formants menu အောက်မှာရှိတဲ့ Show formants ကို ရွေးလိုက်ရင် ကွန်ပျူတာက detect လုပ်လို့ရတဲ့ formant line တွေကို အနီရောင်နဲ့ ပြပေးမှာ ဖြစ်ပါတယ်။ အောက်ပါ ဥပမာ ပုံလိုမျိုးပါ။
+
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/5.Check_Formant_Trackings.png" alt="Formant tracking" width="800"/>  
+</p>  
+<div align="center">
+   Fig.1 Formant tracking with Praat
+</div> 
+
+
 ## 5.Annotation
 
 - Make Segmentation and Annotation
