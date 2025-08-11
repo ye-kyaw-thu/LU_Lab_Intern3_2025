@@ -8,3 +8,5 @@
    (Image captioning ကို ဥပမာအနေနဲ့ လုပ်ပြခဲ့တယ်)   
 4. [WFST](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/4.WFST)  
    (FSM, FSA, FST ကို seminar နှစ်ရက်မှာ မိတ်ဆက်ပေးခဲ့တယ်။ WFST ကိုသုံးပြီး word segmentation, POS tagging, dialect machine translation တွေလည်း လက်တွေ့ လုပ်ပြခဲ့တယ်)  
+5. [Word_Segmentation](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/5.Word_Segmentation)
+   (NLP/AI အလုပ်တွေအတွက် မသိမဖြစ် အရေးကြီးတဲ့ word segmentation အတွက် စာသင်ဖို့ပြင်ရင်း လုပ်ဖြစ်သွားတဲ့ oppaWord ကို ပထမဆုံးအနေနဲ့ internship ကျောင်းသားတွေကို မိတ်ဆက်ပေးခဲ့တယ်)  
