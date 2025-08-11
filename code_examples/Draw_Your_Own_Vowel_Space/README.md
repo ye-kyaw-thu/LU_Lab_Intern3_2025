@@ -14,7 +14,19 @@
    Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
    Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
 
-2. Record Following Myanmar Vowels
+2. Record Following Myanmar Vowels with Praat
    - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
      (သို့မဟုတ်)    
-   - အ အာ အိ အု အေ အဲ အော  
+   - အ အာ အိ အု အေ အဲ အော
+
+3. Make Segmentation and Annotation
+
+ <div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" width="1000" alt="Annotation example figure">
+</div>
+
+ <div style="text-align: center;">
+  <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" width="1000" alt="Annotation example for all vowels figure">
+</div>
+
+
