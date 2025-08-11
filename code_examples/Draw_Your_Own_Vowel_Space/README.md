@@ -3,7 +3,15 @@
 ## Assignment-1
 
 - ကိုယ့်မြန်မာ ကြိယာအသံတွေကို Praat နဲ့ အသံဖမ်းပြီး Vowel Space (သို့) Vowel Chart ဆွဲကြည့်ပါ။
-- အသံဖမ်းထားတဲ့ Wave file ရော Praat နဲ့ အလုပ်လုပ်ထားတဲ့ ဖိုင်တွေရော၊ ပြီးတော့ Python or R code နဲ့ ဆွဲပြီး ထွက်လာတဲ့ vowel space ဖိုင်အားလုံးကို folder တစ်ခုအောက်မှာ သိမ်းပြီး zip လုပ်ပြီး ပို့ပေးပါ။  
+- အသံဖမ်းထားတဲ့ Wave file ရော Praat နဲ့ အလုပ်လုပ်ထားတဲ့ ဖိုင်တွေရော၊ ပြီးတော့ Python or R code နဲ့ ဆွဲပြီး ထွက်လာတဲ့ vowel space ဖိုင်အားလုံးကို folder တစ်ခုအောက်မှာ သိမ်းပြီး zip လုပ်ပြီး ပို့ပေးပါ။
+- ဥပမာ အောက်ပါဖိုင်တွေ ပါကိုပါရမယ်
+  - ye_vowels.wav
+  - ye_vowels.TextGrid
+  - ye_formants.Table
+  - ye_formants_utf8.csv (UTF-8 format ဖြစ်ရမယ်)
+  - ye_vowel_space.png
+ 
+**Note: "ye" ဆိုတဲ့ နေရာမှာ ကိုယ့်နာမည်ကို အစားထိုးပါ။**
 
 ## Slide
 
