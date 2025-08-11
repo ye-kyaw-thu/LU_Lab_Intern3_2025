@@ -64,6 +64,23 @@ sys     0m0.016s
 ye@lst-hpc3090:~/exp/vs/ipa2speech$
 ```
 
+ထွက်လာတဲ့ wavefile information:  
+
+```
+ye@lst-hpc3090:~/exp/vs/ipa2speech$ soxi ./test1.ipa.wav
+
+Input File     : './test1.ipa.wav'
+Channels       : 1
+Sample Rate    : 22050
+Precision      : 16-bit
+Duration       : 00:00:04.91 = 108191 samples ~ 367.997 CDDA sectors
+File Size      : 216k
+Bit Rate       : 353k
+Sample Encoding: 16-bit Signed Integer PCM
+
+ye@lst-hpc3090:~/exp/vs/ipa2speech$
+```
+
 ## Listen and Guess
 
 - IPA ကနေ Speech (i.e. TTS) အဖြစ်ပြောင်းပြီး ထွက်လာတဲ့ wavefile ကို နားထောင်ကြည့်ပြီး ဘာတွေ ပြောနေတာလဲ ဆိုတာကို ခန့်မှန်းကြည့်ပါ။  
