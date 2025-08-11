@@ -24,7 +24,7 @@
 - Vowel တစ်လုံးချင်းစီအတွက် semgmenation လုပ်ရင်းနဲ့ "အ" ဆိုရင် "a" ၊ "အာ" အသံဆိုရင် "ɑ" ဆိုပြီး text annotation လုပ်သွားပါ။
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="330"/>  
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="800"/>  
 </p>  
 <div align="center">
    Fig. Annotation Example 
@@ -33,7 +33,7 @@
 - အသံဖမ်းထားတဲ့ vowel အားလုံးကို annotation လုပ်ရမှာဖြစ်ပါတယ်။ ဥပမာ အောက်ပါလိုမျိုး ...
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="330"/>  
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="800"/>  
 </p>  
 <div align="center">
    Fig. Annotation for all vowels
