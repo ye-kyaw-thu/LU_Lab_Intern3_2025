@@ -10,3 +10,5 @@
    (FSM, FSA, FST ကို seminar နှစ်ရက်မှာ မိတ်ဆက်ပေးခဲ့တယ်။ WFST ကိုသုံးပြီး word segmentation, POS tagging, dialect machine translation တွေလည်း လက်တွေ့ လုပ်ပြခဲ့တယ်)  
 5. [Word_Segmentation](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/5.Word_Segmentation)  
    (NLP/AI အလုပ်တွေအတွက် မသိမဖြစ် အရေးကြီးတဲ့ word segmentation အတွက် စာသင်ဖို့ပြင်ရင်း လုပ်ဖြစ်သွားတဲ့ oppaWord ကို ပထမဆုံးအနေနဲ့ internship ကျောင်းသားတွေကို မိတ်ဆက်ပေးခဲ့တယ်)  
+6. [Draw_Your_Own_Vowel_Space]()   
+   (Phonetics နဲ့ပတ်သက်ပြီး ဆရာကြီးဦးဖေမောင်တင်၊ ဆရာဦးသိန်းထွန်းတို့ အလုပ်တချို့ကို မိတ်ဆက်ပေးရင်း IPA2Speech convesion demo လုပ်ပြဖြစ်ခဲ့တယ်။ ကိုယ့်အသံနဲ့ vowel space ဆွဲနိုင်အောင် သင်ကြားပေးခဲ့တယ်)  
