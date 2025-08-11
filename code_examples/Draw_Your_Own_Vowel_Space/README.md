@@ -140,7 +140,33 @@ Table 1. Essential shortcuts of Praat
    Fig.7 Annotation for all vowels
 </div> 
 
-## 5.
+- Vowel အားလုံးကို annotation လုပ်ပြီးတဲ့အခါမှာတော့ TextGrid ဖိုင်ကို နာမည်တစ်ခုပေးပြီး သိမ်းပေးရမှာဖြစ်ပါတယ်။ ဥပမာ ye_vowels.TextGrid
+
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/18.Save_TextGrid.png" alt="Saving TextGrid file" width="650"/>  
+</p>  
+<div align="center">
+   Fig.8 Saving TextGrid file
+</div> 
+
+<br>
+
+- တကယ်လို့ ရှေ့မှာ အသံသွင်းထားတဲ့ wavefile ကို save မလုပ်ရသေးရင်၊ ခု save လုပ်ထားလိုက်ပါဦး။
+
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/17.Save_Wavefile.png" alt="Saving wavefile" width="650"/>  
+</p>  
+<div align="center">
+   Fig.9 Saving wavefile
+</div> 
+
+## 7. Estimating Formant Frequencies with Burg Algorithm
+
+
 
 ## References
 
