@@ -376,7 +376,7 @@ if __name__ == "__main__":
 - [Plot_Vowel_Space.R](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/code4graph_drawing/Plot_Vowel_Space.R)
 - Original R code link က [https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R](https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R)  
 
-### plot_vowel_space.py
+### Draw graph with plot_vowel_space.py
 
 သုံးပုံသုံးနည်းက လွယ်ပါတယ်။ --input argument နဲ့ CSV ဖိုင်ကို pass လုပ်ပြီး --output argument နဲ့ .png ဂရဖ်ဖိုင်ရဲ့ နာမည်ကို သတ်မှတ်ပေးယုံပါပဲ။  
 
@@ -403,6 +403,73 @@ ye@lst-hpc3090:~/exp/vs$ file ./ye_vowel_space.png
 ye@lst-hpc3090:~/exp/vs$
 ```
 
+### Draw graph with Plot_Vowel_Space.R  
+
+ကိုယ်စက်ထဲမှာ R programming ကို run လို့ရဖို့ ကြိုတင်ပြင်ဆင်ထားရပါမယ်။ ပြီးတော့လိုအပ်တဲ့ R library ဖိုင်တစ်ချို့လည်း installation လုပ်ထားရပါမယ်။  
+
+```
+ye@lst-hpc3090:~/exp/vs$ R
+
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+>
+```
+
+R code ကို run မယ်ဆိုရင်တော့ Rscript ဆိုတဲ့ command နဲ့ run ရပါတယ်။  
+R ဆိုတဲ့ programming ကလည်း statistical သမားတွေနဲ့ အရင်က Data Science သမားတွေအတွက် တော်တော်လေး ခေတ်စားခဲ့ပါတယ်။ အဲဒါကြောင့် သိထားရင် ကောင်းပါတယ်။  
+
+```
+ye@lst-hpc3090:~/exp/vs$ Rscript ./Plot_Vowel_Space.R
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+`summarise()` has grouped output by 'vowel', 'IPA'. You can override using the `.groups` argument.
+`summarise()` has grouped output by 'vowel'. You can override using the `.groups` argument.
+Warning message:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+There were 28 warnings (use warnings() to see them)
+ye@lst-hpc3090:~/exp/vs$
+```
+
+R နဲ့ ဆွဲပြီးထွက်လာတဲ့ ဂရဖ်ဖိုင်ကို စစ်ဆေးကြည့်ရအောင် ...  
+
+```
+ye@lst-hpc3090:~/exp/vs$ ls -lh ./ye_vowel_space_R.png
+-rw-rw-r-- 1 ye ye 128K Aug 11 23:49 ./ye_vowel_space_R.png
+ye@lst-hpc3090:~/exp/vs$
+```
 
 ## 10. Vowel Chart
 
