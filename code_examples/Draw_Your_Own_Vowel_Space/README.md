@@ -52,6 +52,7 @@ Table 1. Essential shortcuts of Praat
      (သို့မဟုတ်)    
    - အ အာ အိ အု အေ အဲ အော
   
+<br>
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/Recording_with_Praat.png" alt="Recording UI" width="600"/>  
@@ -63,7 +64,7 @@ Table 1. Essential shortcuts of Praat
 <br>
 
 - Recording လုပ်ထားတဲ့ ဖိုင်ကို list box မှာပြနေပေမဲ့ hard-drive မှာ မသိမ်းရသေးပါဘူး။
-- Wave file အဖြစ် save လုပ်ဖို့မမေ့ပါနဲ့။  
+- Wave file အဖြစ် save လုပ်ဖို့မမေ့ပါနဲ့။ ဥပမာ။ ။ ye_vowels.wav   
 
 ## 4. Formant Tracking
 
@@ -91,7 +92,29 @@ Table 1. Essential shortcuts of Praat
    Fig.3 Adjust formant settings based on formant tracking outputs
 </div> 
 
-## 5. Annotation
+## 5. TextGrid File Preparation
+
+- Segmentation, Annotation မလုပ်ခင်မှာ အရင်ဆုံး TextGrid ဖိုင်ကို ပြင်ဆင်ရပါတယ်
+- Praat ရဲ့ list box မှာ ပေါ်နေတဲ့ wavefile ကို selection မှတ်ပြီး၊ ဘေးဘက်က menu တွေထဲက Annotate ဆိုတာကို ကလစ်နှိပ်ပြီး sub-menu To TextGrid... ဆိုတာကို ရွေးပါ
+- Tier ကတော့ တစ်ခုပဲထားပါ။ အော်တိုဖြည့်ပေးထားတာကို ဖျက်လိုက်ပြီး vowels ဆိုပြီး ရိုက်ထည့်ပါ
+- Which of these are point tiers? ရဲ့ textbox ကိုတော့ blank box အနေနဲ့ပဲ ထားပေးပါ
+- အောက်ပါ ပုံတွေကို မှီငြမ်းပါ
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/10.Annotate_to_TextGrid.png" alt="Create TextGrid" width="800"/>  
+</p>  
+<div align="center">
+   Fig.4 Create TextGrid file
+</div> 
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/11.Tier_Name_No_Point_Tiers.png" alt="Set one tier" width="800"/>  
+</p>  
+<div align="center">
+   Fig.5 Make only one tier
+</div> 
+
+## 6. Annotation
 
 - Make Segmentation and Annotation
 - Wavefile ရော TextGrid ဖိုင်ရော နှစ်ဖိုင်လုံးကို selection မှတ်ပြီးမှ edit လုပ်ပါ
@@ -101,7 +124,7 @@ Table 1. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="800"/>  
 </p>  
 <div align="center">
-   Fig.4 Annotation Example 
+   Fig.6 Annotation Example 
 </div> 
 
 <br>
@@ -112,7 +135,7 @@ Table 1. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="800"/>  
 </p>  
 <div align="center">
-   Fig.5 Annotation for all vowels
+   Fig.7 Annotation for all vowels
 </div> 
 
 ## 5.
