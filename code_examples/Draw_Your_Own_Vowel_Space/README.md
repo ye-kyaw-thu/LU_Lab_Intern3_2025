@@ -11,7 +11,7 @@
   - ye_formants_utf8.csv (UTF-8 format ဖြစ်ရမယ်)
   - ye_vowel_space.png
  
-**Note: "ye" ဆိုတဲ့ နေရာမှာ ကိုယ့်နာမည်ကို အစားထိုးပါ။**
+Note: `ye` ဆိုတဲ့ နေရာမှာ `ကိုယ့်နာမည်` ကိုအစားထိုးပါ။
 
 ## Slide
 
