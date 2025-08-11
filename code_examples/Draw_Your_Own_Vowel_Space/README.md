@@ -90,6 +90,7 @@ Table 1. Essential shortcuts of Praat
 ## 5. Annotation
 
 - Make Segmentation and Annotation
+- Wavefile ရော TextGrid ဖိုင်ရော နှစ်ဖိုင်လုံးကို selection မှတ်ပြီးမှ edit လုပ်ပါ
 - Vowel တစ်လုံးချင်းစီအတွက် semgmenation လုပ်ရင်းနဲ့ "အ" ဆိုရင် "a" ၊ "အာ" အသံဆိုရင် "ɑ" ဆိုပြီး text annotation လုပ်သွားပါ။
 
 <p align="center">
