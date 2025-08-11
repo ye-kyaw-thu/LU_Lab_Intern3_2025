@@ -55,7 +55,7 @@ Table 1. Essential shortcuts of Praat
 <br>
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/Recording_with_Praat.png" alt="Recording UI" width="600"/>  
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/Recording_with_Praat.png" alt="Recording UI" width="500"/>  
 </p>  
 <div align="center">
    Fig.1 Recording with Praat (mono, 16KHz)   
