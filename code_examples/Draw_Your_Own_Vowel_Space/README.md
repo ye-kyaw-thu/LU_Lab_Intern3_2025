@@ -180,7 +180,7 @@ Table 1. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/20.to_Formant_Same_Settings.png" alt="Setting same values" width="650"/>  
 </p>  
 <div align="center">
-   Fig.9 Setting same values for "Max. number of formants" and "Formant ceiling (Hz)"
+   Fig.10 Setting same values for "Max. number of formants" and "Formant ceiling (Hz)"
 </div> 
 <br>
 
@@ -199,7 +199,7 @@ Table 1. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/21.Praat_script.png" alt="Praat script for estimating formant frequencies" width="650"/>  
 </p>  
 <div align="center">
-   Fig.9 Praat script for estimating formant frequencies
+   Fig.11 Praat script for estimating formant frequencies
 </div> 
 <br>
 
