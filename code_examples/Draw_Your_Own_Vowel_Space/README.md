@@ -380,6 +380,32 @@ if __name__ == "__main__":
 
 - ဆရာ့အသံနဲ့ ဖမ်းထားပြီး ဆွဲထားတဲ့ မြန်မာ vowel chart တွေက အောက်ပါအတိုင်းပါ
 
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/code4graph_drawing/ye_vowel_space.png" alt="Vowel chart of Ye Kyaw Thu with Python code" width="450"/>  
+</p>  
+<div align="center">
+   Fig.15 Vowel chart with python code
+</div> 
+<br>
+
+
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/code4graph_drawing/ye_vowel_space_R.png" alt="Vowel chart of Ye Kyaw Thu with R code" width="450"/>  
+</p>  
+<div align="center">
+   Fig.16 Vowel chart with R code
+</div> 
+<br>
+
+## Video Tutorial
+
+The following is a good set of video tutorials on speech communication and the challenges faced by people with hearing loss. It includes a segment on making a vowel chart for the English language, and I highly recommend watching them.  
+
+[https://www.youtube.com/@listenlab_umn](https://www.youtube.com/@listenlab_umn)  
 
 ## References
 
@@ -389,4 +415,6 @@ if __name__ == "__main__":
 4. [https://www.ipachart.com/](https://www.ipachart.com/)  
 5. [https://ipa-reader.com/](https://ipa-reader.com/)  
 6. [X-ray films of speech](https://www.phonetik.uni-muenchen.de/~hoole/kurse/movies/xray/xray_demo.html)
-7. [https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html](https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html)  
+7. [https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html](https://walkergareth.github.io/learnipa/IPAChart/charts/vowels.html)
+8. [https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R](https://github.com/ListenLab/make_vowel_space/blob/main/Plot_vowel_space.R)  
+9. [YouTube Video of Make your own vowel chart](https://www.youtube.com/watch?v=BGW8J4cG0qY)  
