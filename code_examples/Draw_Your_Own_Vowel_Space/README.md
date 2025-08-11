@@ -177,7 +177,7 @@ Table 1. Essential shortcuts of Praat
 <br>
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/20.to_Formant_Same_Settings.png" alt="Setting same values" width="650"/>  
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/20.to_Formant_Same_Settings.png" alt="Setting same values" width="600"/>  
 </p>  
 <div align="center">
    Fig.10 Setting same values for "Max. number of formants" and "Formant ceiling (Hz)"
