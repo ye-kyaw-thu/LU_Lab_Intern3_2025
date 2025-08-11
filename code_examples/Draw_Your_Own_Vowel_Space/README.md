@@ -29,7 +29,7 @@ Note: `ye` ဆိုတဲ့ နေရာမှာ `ကိုယ့်နာမ
 - Praat software က စသုံးစမှာ ခက်နိုင်တာမို့၊ အောက်ပါ shortcut တချို့ကို မှီငြမ်းပါ။
 
 <div align="center">
-Table. Essential shortcuts of Praat
+Table 1. Essential shortcuts of Praat
 
 | Windows       | Mac            | Function                          |
 |--------------|---------------|----------------------------------|
@@ -72,9 +72,20 @@ Table. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/5.Check_Formant_Trackings.png" alt="Formant tracking" width="800"/>  
 </p>  
 <div align="center">
-   Fig.1 Formant tracking with Praat
+   Fig.2 Formant tracking with Praat
 </div> 
 
+- Formant (F1, F2, F3) လိုင်းတွေကို Zoom in လုပ်ပြီး vowel တစ်ခုချင်းစီအတွက် စစ်ဆေးပါ။
+- ဒီ assignment အလုပ်အတွက်၊ ဆရာတို့က F1, F2, F3 ကိုပဲ အဓိက စိတ်ဝင်စားပါတယ်
+- တကယ်လို့ F1, F2, F3 ရဲ့ formant line တွေက တဆက်တည်း မရှိပဲ အရမ်းပြန့်ကျဲနေတာ၊ ပြတ်ထွက်တာတွေ ဖြစ်နေရင်တော့ Formants menu အောက်က Formant settings... ကိုနှိပ်ပြီး ဝင်ညှိရမှာ ဖြစ်ပါတယ်
+- နောက်တခု အရေးကြီးတာက ယောက်ျားလေး အသံနဲ့ မိန်းကလေး အသံရဲ့ frequency တွေက မတူပါဘူး။ အခြေခံအားဖြင့် ယောကျ်ားလေးအတွက်က 5000 ပတ်ဝန်းကျင်၊ မိန်းကလေးအတွက်က 5500 ပတ်ဝန်းကျင်ရှိပါတယ်။
+  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/8.Formant_Settings.png" alt="Formant setting..." width="800"/>  
+</p>  
+<div align="center">
+   Fig.3 Adjust formant settings based on formant tracking outputs
+</div> 
 
 ## 5.Annotation
 
@@ -85,7 +96,7 @@ Table. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="800"/>  
 </p>  
 <div align="center">
-   Fig.1 Annotation Example 
+   Fig.4 Annotation Example 
 </div> 
 
 - အသံဖမ်းထားတဲ့ vowel အားလုံးကို annotation လုပ်ရမှာဖြစ်ပါတယ်။ ဥပမာ အောက်ပါလိုမျိုး ...
@@ -94,7 +105,7 @@ Table. Essential shortcuts of Praat
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="800"/>  
 </p>  
 <div align="center">
-   Fig.2 Annotation for all vowels
+   Fig.5 Annotation for all vowels
 </div> 
 
 ## 5.
