@@ -393,12 +393,12 @@ ye@lst-hpc3090:~/exp/vs$
 
 ```
 ye@lst-hpc3090:~/exp/vs$ python ./plot_vowel_space.py --input ./ye_formants_utf8.csv --output ye_vowel_space.png
-ye@lst-hpc3090:~/exp/vs$ file ./ye_vowel_space.png
 ```
 
 ထွက်လာတဲ့ graph ဖိုင်ကို confirm လုပ်ကြည့်ပါ။
 
 ```
+ye@lst-hpc3090:~/exp/vs$ file ./ye_vowel_space.png
 ./ye_vowel_space.png: PNG image data, 3000 x 2400, 8-bit/color RGBA, non-interlaced
 ye@lst-hpc3090:~/exp/vs$
 ```
