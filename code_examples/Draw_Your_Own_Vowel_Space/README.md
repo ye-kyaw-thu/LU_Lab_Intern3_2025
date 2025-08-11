@@ -37,6 +37,14 @@ Table. Essential shortcuts of Praat
    - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
      (သို့မဟုတ်)    
    - အ အာ အိ အု အေ အဲ အော
+  
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/Recording_with_Praat.png" alt="Recording UI" width="600"/>  
+</p>  
+<div align="center">
+   Fig.1 Recording with Praat (16KHz)   
+</div> 
 
 4. Make Segmentation and Annotation
 
