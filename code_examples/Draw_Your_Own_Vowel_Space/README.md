@@ -7,12 +7,14 @@
 ## Slide
 
 - Draw Your Own Vowel Chart Slide: [https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space)  
-  
-## Steps
 
-1. Praat ကို ကိုယ်စက်မှာ သုံးလို့ရဖို့ installation လုပ်ပါ။  
-   Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
-   Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
+## 1.Installation
+
+- Praat ကို ကိုယ်စက်မှာ သုံးလို့ရဖို့ installation လုပ်ပါ။  
+- Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
+- Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
+
+## 2.Learn Shortcuts of Praat
 
 - Praat software က စသုံးစမှာ ခက်နိုင်တာမို့၊ အောက်ပါ shortcut တချို့ကို မှီငြမ်းပါ။
 
@@ -33,7 +35,9 @@ Table. Essential shortcuts of Praat
 | `Ctrl+T`     | `Command+T`   | Run selected portion of a script |
 </div>
 
-3. Record Following Myanmar Vowels with Praat (mono, 16 KHz)
+## 3.Recording  
+
+- Record Following Myanmar Vowels with Praat (mono, 16 KHz)
    - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
      (သို့မဟုတ်)    
    - အ အာ အိ အု အေ အဲ အော
@@ -46,8 +50,11 @@ Table. Essential shortcuts of Praat
    Fig.1 Recording with Praat (mono, 16KHz)   
 </div> 
 
-4. Make Segmentation and Annotation
+## 4. Formant Tracking
 
+## 5.Annotation
+
+- Make Segmentation and Annotation
 - Vowel တစ်လုံးချင်းစီအတွက် semgmenation လုပ်ရင်းနဲ့ "အ" ဆိုရင် "a" ၊ "အာ" အသံဆိုရင် "ɑ" ဆိုပြီး text annotation လုပ်သွားပါ။
 
 <p align="center">
@@ -66,6 +73,7 @@ Table. Essential shortcuts of Praat
    Fig.2 Annotation for all vowels
 </div> 
 
+## 5.
 
 ## References
 
