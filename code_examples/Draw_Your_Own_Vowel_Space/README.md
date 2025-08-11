@@ -15,7 +15,8 @@ Note: `ye` ဆိုတဲ့ နေရာမှာ `ကိုယ့်နာမ
 
 ## Slide
 
-- Draw Your Own Vowel Chart Slide: [https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space)  
+- Draw Your Own Vowel Chart Slide: [https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/6.Draw_Your_Own_Vowel_Space)
+- ဒီ ဆလိုက်ထဲမှာ လုပ်ရတဲ့ အဆင့်တွေကို screenshot တွေ အများကြီးနဲ့ ရှင်းပြထားပါတယ်။ Seminar ပျက်တဲ့သူတွေက နားမလည်ရင် သူငယ်ချင်းကို မေးတာ၊ တိုင်ပင်တာ လုပ်ပါ။  
 
 ## 1.Installation
 
