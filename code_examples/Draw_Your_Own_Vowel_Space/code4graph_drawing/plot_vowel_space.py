@@ -70,7 +70,7 @@ def main():
 
     # --- Step 4: Plotting ---
     fig, ax = plt.subplots(figsize=(5, 4))
-    ax.set_title("Myanmar Vowel Space")
+    ax.set_title("Vowel Space of Ye Kyaw Thu (Male)")
     ax.set_xlabel("F2 (Hz)")
     ax.set_ylabel("F1 (Hz)")
     ax.invert_xaxis()
