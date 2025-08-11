@@ -1,0 +1,4 @@
+
+# if you want to convert Praat output utf-16 to utf-8
+iconv -f utf-16 -t utf-8 ye_formants.Table -o ye_formants_utf8.csv
+
