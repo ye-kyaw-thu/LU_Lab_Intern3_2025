@@ -168,7 +168,20 @@ Table 1. Essential shortcuts of Praat
 
 ## 7. Estimating Formant Frequencies with Burg Algorithm
 
+- ဒီအဆင့်မှာတော့ wave ဖိုင်ကနေ formant frequency တွေကို Burg algorithm ကို သုံးပြီး ခန့်မှန်းကြည့်မှာဖြစ်ပါတယ်။
+- list box ထဲမှာ wave ဖိုင်တစ်ဖိုင်တည်းကိုပဲ ကလစ်လုပ်ပြီး selection မှတ်ပါ
+- Selection မှတ်ပြီးသွားရင် `Analyse spectrum` menu ကိုရွေးပြီး `To Formant (burg)...` ကို နှိပ်လိုက်ရင် အောက်ပါအတိုင်း `Sound: To Formant (Burg metho)` ဆိုတဲ့ dialogue box ပေါ်လာပါလိမ့်မယ်
+- အဲဒီ dialogue box မှာ `Max. number of formants:` နဲ့ `Formant ceiling (Hz):` တွေကို ရှေ့မှာ Formant tracking လုပ်စဉ်က ပေးထားခဲ့တဲ့ value တွေအတိုင်း ညီအောင်ထားပေးရပါမယ်။ ဆရာအသံအတွက်ကတော့ Formant ceiling ကို `4500.0 Hz` ထားခဲ့ပါတယ်။
+- Max. number of formants က ရှေ့မှာလည်း 4.0 ထားခဲ့တာမို့ ခု ဒီ dialogue box မှာလည်း 4.0 ပဲ ထားပါတယ်။
 
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/20.to_Formant_Same_Settings.png" alt="Setting same values" width="650"/>  
+</p>  
+<div align="center">
+   Fig.9 Setting same values for "Max. number of formants" and "Formant ceiling (Hz)"
+</div> 
 
 ## References
 
