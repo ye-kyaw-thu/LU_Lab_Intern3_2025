@@ -14,12 +14,29 @@
    Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
    Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
 
-2. Record Following Myanmar Vowels with Praat
+<div align="center">
+Table. Essential shortcuts of Praat
+</div>
+
+| Windows       | Mac            | Function                          |
+|--------------|---------------|----------------------------------|
+| `Tab`        | `Tab`         | Play from cursor/selected portion |
+| `Ctrl+I`     | `Command+I`   | Zoom in                          |
+| `Ctrl+O`     | `Command+O`   | Zoom out                         |
+| `Ctrl+N`     | `Command+N`   | Zoom to selected portion         |
+| `Ctrl+A`     | `Command+A`   | Show all (zoom full range)       |
+| `Ctrl+B`     | `Command+B`   | Zoom back (previous zoom level)  |
+| `Enter`      | `Return`      | Add boundary at cursor           |
+| `Alt+Backspace` | `Option+Delete` | Delete selected boundary        |
+| `Ctrl+R`     | `Command+R`   | Run a script                     |
+| `Ctrl+T`     | `Command+T`   | Run selected portion of a script |
+
+3. Record Following Myanmar Vowels with Praat
    - အ၊ အာ၊ အိ၊ အီ၊ အု၊ အူ၊ အေ၊ အဲ၊ အော
      (သို့မဟုတ်)    
    - အ အာ အိ အု အေ အဲ အော
 
-3. Make Segmentation and Annotation
+4. Make Segmentation and Annotation
 
 - Vowel တစ်လုံးချင်းစီအတွက် semgmenation လုပ်ရင်းနဲ့ "အ" ဆိုရင် "a" ၊ "အာ" အသံဆိုရင် "ɑ" ဆိုပြီး text annotation လုပ်သွားပါ။
 
@@ -27,7 +44,7 @@
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/14.Annotation.png" alt="Annotation example figure" width="800"/>  
 </p>  
 <div align="center">
-   Fig. Annotation Example 
+   Fig.1 Annotation Example 
 </div> 
 
 - အသံဖမ်းထားတဲ့ vowel အားလုံးကို annotation လုပ်ရမှာဖြစ်ပါတယ်။ ဥပမာ အောက်ပါလိုမျိုး ...
@@ -36,7 +53,7 @@
 <img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/16.Annotation.png" alt="Fig. Annotation for all vowels" width="800"/>  
 </p>  
 <div align="center">
-   Fig. Annotation for all vowels
+   Fig.2 Annotation for all vowels
 </div> 
 
 
