@@ -218,6 +218,21 @@ Table 1. Essential shortcuts of Praat
 </div> 
 <br>
 
+## 8. Saving Table Formant File as CSV File
+
+- နောက်ဆုံးရလာတဲ့ `Table formant` ဖိုင်ကို ဖွင့်ကြည့်ရင် အောက်ပါအတိုင်း မြင်ရပါလိမ့်မယ်။
+
+<br>
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/23.Table_formants.png" alt="Table formant file" width="650"/>  
+</p>  
+<div align="center">
+   Fig.13 Table Formant File
+</div> 
+<br>
+
+
 
 ## References
 
