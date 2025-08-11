@@ -60,6 +60,7 @@ Table 1. Essential shortcuts of Praat
    Fig.1 Recording with Praat (mono, 16KHz)   
 </div> 
 
+<br>
 
 - Recording လုပ်ထားတဲ့ ဖိုင်ကို list box မှာပြနေပေမဲ့ hard-drive မှာ မသိမ်းရသေးပါဘူး။
 - Wave file အဖြစ် save လုပ်ဖို့မမေ့ပါနဲ့။  
@@ -75,6 +76,8 @@ Table 1. Essential shortcuts of Praat
 <div align="center">
    Fig.2 Formant tracking with Praat
 </div> 
+
+<br>
 
 - Formant (F1, F2, F3) လိုင်းတွေကို Zoom in လုပ်ပြီး vowel တစ်ခုချင်းစီအတွက် စစ်ဆေးပါ။
 - ဒီ assignment အလုပ်အတွက်၊ ဆရာတို့က F1, F2, F3 ကိုပဲ အဓိက စိတ်ဝင်စားပါတယ်
@@ -101,6 +104,7 @@ Table 1. Essential shortcuts of Praat
    Fig.4 Annotation Example 
 </div> 
 
+<br>
 
 - အသံဖမ်းထားတဲ့ vowel အားလုံးကို annotation လုပ်ရမှာဖြစ်ပါတယ်။ ဥပမာ အောက်ပါလိုမျိုး ...
 
