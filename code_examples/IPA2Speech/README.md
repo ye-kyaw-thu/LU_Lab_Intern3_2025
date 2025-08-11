@@ -1,4 +1,4 @@
-## Demo Code for IPA to Speech
+## IPA to Speech (Proof of Concept)
 
 - ၁၀ ဩဂုတ် ၂၀၂၅ မှာလုပ်ခဲ့တဲ့ seminar မှာ IPA code တွေရဲ့ အသုံးဝင်ပုံ အနေနဲ့ ဟိုးအရင်က လုပ်ခဲ့ကြတဲ့ rule-based TTS (စက်ရုပ်အသံ) ကို ဒီမိုအနေနဲ့ လုပ်ပြဖြစ်ခဲ့တယ်။
 - Linux မှာ အသုံးများတဲ့ espeak command (တကယ်က espeak-NG ဗားရှင်းပါ) ဆီကို IPA code ကို စာကြောင်းတစ်ကြောင်းချင်းစီ pass လုပ်တဲ့ ပုံစံအနေနဲ့ လုပ်ပြခဲ့တာပါ
