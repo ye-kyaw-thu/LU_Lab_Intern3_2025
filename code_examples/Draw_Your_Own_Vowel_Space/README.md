@@ -14,6 +14,8 @@
    Praat Homepage: [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)  
    Download Page for Windows OS: [https://www.fon.hum.uva.nl/praat/download_win.html](https://www.fon.hum.uva.nl/praat/download_win.html)
 
+- Praat software က စသုံးစမှာ ခက်နိုင်တာမို့၊ အောက်ပါ shortcut တချို့ကို မှီငြမ်းပါ။
+
 <div align="center">
 Table. Essential shortcuts of Praat
 
