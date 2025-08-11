@@ -110,7 +110,7 @@ Table 1. Essential shortcuts of Praat
 <br>
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/11.Tier_Name_No_Point_Tiers.png" alt="Set one tier" width="800"/>  
+<img src="https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/blob/main/code_examples/Draw_Your_Own_Vowel_Space/fig/11.Tier_Name_No_Point_Tiers.png" alt="Set one tier" width="500"/>  
 </p>  
 <div align="center">
    Fig.5 Make only one tier
