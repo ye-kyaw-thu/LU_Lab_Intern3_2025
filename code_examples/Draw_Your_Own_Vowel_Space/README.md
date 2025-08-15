@@ -496,6 +496,18 @@ ye@lst-hpc3090:~/exp/vs$
 </div> 
 <br>
 
+## Convert utf-16 to utf-8
+
+Use utf-8 on Linux machines.  
+
+```
+ye@lst-hpc3090:~/exp/vc$ file ye_formants.Table
+ye_formants.Table: CSV Unicode text, UTF-16, big-endian text
+ye@lst-hpc3090:~/exp/vc$
+
+iconv -f utf-16 -t utf-8 ye_formants.Table -o ye_formants_utf8.csv
+```
+
 ## For Your Learning
 
 The following is a good set of video tutorials on speech communication and the challenges faced by people with hearing loss. It includes a segment on making a vowel chart for the English language, and I highly recommend watching them.  
