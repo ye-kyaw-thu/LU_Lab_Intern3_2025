@@ -14,3 +14,5 @@
    (Phonetics နဲ့ပတ်သက်ပြီး ဆရာကြီးဦးဖေမောင်တင်၊ ဆရာဦးသိန်းထွန်းတို့ အလုပ်တချို့ကို မိတ်ဆက်ပေးရင်း IPA2Speech convesion demo လုပ်ပြဖြစ်ခဲ့တယ်။ ကိုယ့်အသံနဲ့ vowel space ဆွဲနိုင်အောင် သင်ကြားပေးခဲ့တယ်)  
 7. [LLM_Agents](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/7.LLM_Agents)  
 (Super AI Engineer (Season 5), Thailand မှာ ပေးခဲ့တဲ့ lecture ပါ)  
+8. [NLP-and-LLMs](https://github.com/ye-kyaw-thu/LU_Lab_Intern3_2025/tree/main/slides/8.NLP-and-LLMs)  
+(NLP & LLMs, VarCamp 2025, 7 Sept 2025)  
